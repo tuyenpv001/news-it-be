@@ -1,0 +1,6 @@
+export * from '@/data/user.data'
+export * from '@/data/news.data'
+export * from '@/data/hashTag.data'
+export * from '@/data/comment.data'
+export * from '@/data/notify.data'
+export * from '@/data/common.data'
